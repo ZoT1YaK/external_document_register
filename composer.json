@@ -1,0 +1,21 @@
+{
+    "name": "rz/rz_test",
+    "description": "User Interface that integrates with SimBASE to create and view object data",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rz\\RzTest\\": "src/",
+            "Rz\\RzTest\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roberts Zustars",
+            "email": "roberts.zustars@simourg.com"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "^1.10"
+    }
+}

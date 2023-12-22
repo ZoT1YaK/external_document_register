@@ -1,0 +1,44 @@
+[
+    [
+        {
+            "label": "Stage",
+            "value": "New",
+            "type": "field"
+        },
+        {
+            "label": "Document number",
+            "value": "DOCS23121802",
+            "type": "field"
+        },
+        {
+            "label": "Author",
+            "value": "api api",
+            "type": "field"
+        },
+        {
+            "label": "Registration date",
+            "value": "2023-12-18",
+            "type": "field"
+        },
+        {
+            "label": "External number",
+            "value": "",
+            "type": "field"
+        },
+        {
+            "label": "Document type",
+            "value": "Agreement",
+            "type": "field"
+        },
+        {
+            "label": "Document description",
+            "value": "DAScxcxxzDAScx",
+            "type": "field"
+        },
+        {
+            "label": "diagram.jpg",
+            "value": "DOCS23121802-0",
+            "type": "file"
+        }
+    ]
+]
