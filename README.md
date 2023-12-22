@@ -37,8 +37,8 @@ mkdir -p /var/www/app
 ### Configuring the web app
 Copy i_custom.php.example to i_custom.php and specify the following parameters: 
 ```php
-$cfg['sbapi_iid'] = 'SIMBASE_API_ID_IN_DEC_FORMAT';
-$cfg['sbapi_url'] = 'SIMBASE_API_URL';
+$cfg['sbapi_iid'] = 'API_ID_IN_DEC_FORMAT';
+$cfg['sbapi_url'] = 'API_URL';
 $cfg['libreoffice_path'] = '/usr/bin/soffice';
 ```
 ### Setting up files and directories permissions
